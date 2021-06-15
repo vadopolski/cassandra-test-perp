@@ -1,0 +1,1 @@
+docker run --name cassandra bitnami/cassandra:latest
